@@ -1,0 +1,6 @@
+interval = 5
+
+[[search_params]]
+trade_type = "Sell"
+pay_types = ["Wise"]
+fiat = "USD"
